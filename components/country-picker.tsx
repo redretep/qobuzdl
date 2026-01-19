@@ -1,3 +1,4 @@
+CountryPicker.displayName = 'CountryPicker'
 import React, { useEffect, useState } from 'react';
 import { Select, SelectContent, SelectItem } from './ui/select';
 import { SelectTrigger } from '@radix-ui/react-select';
